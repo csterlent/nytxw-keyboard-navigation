@@ -21,4 +21,4 @@ The biggest command added is probably \<Enter\> with a number before it. If you 
 |ENTER  |if any clue is selected, jump to that clue. otherwise use default behavior.|
 |DELETE |works like backspace but goes forward|
 
-If you ever want to bypass this script, for example to insert a "2" onto your board, you can. Just press \<Escape\> to go into Rebus mode, where you can type the character normally and press \<Escape\> again to get out of it.
+If you ever want to bypass this script, for example to insert a "2" onto your board, you can. Just press \<Escape\> to go into Rebus mode, where you can type the character normally and press \<Enter\> to get out of it.
